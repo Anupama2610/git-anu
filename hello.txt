@@ -1,2 +1,7 @@
 hello anu
+<<<<<<< HEAD
 hello bhoomi
+=======
+hello aru
+>>>>>>> f1
+hello appi
